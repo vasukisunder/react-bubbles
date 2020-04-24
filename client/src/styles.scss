@@ -20,6 +20,27 @@ body,
   }
 }
 
+h1 {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+
+}
+
+
+#cont{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 5%;
+
+
+
+}
+
+a {
+  text-decoration: none;
+}
 .spacer {
   height: 100%;
 }
@@ -97,3 +118,10 @@ form {
     margin-top: 16px;
   }
 }
+
+#form{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
